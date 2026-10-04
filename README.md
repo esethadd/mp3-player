@@ -4,6 +4,12 @@ An embedded MP3 player built around the **ESP32-S3** using **ESP-IDF**.
 
 The goal of this project is to create a standalone MP3 player with a responsive user interface that allows users to browse music, control playback, and interact with the device using physical buttons and a rotary encoder.
 
+## ESP-IDF
+
+The project currently uses:
+- ESP-IDF v6.1
+- ESP-IDF VS Code Extension v2.2
+
 ## Hardware
 
 The project currently uses:
